@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**rparsa49/rparsa49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Hi! My name's Roya and I'm currently a third year studying Computer Science. I'm an Afghan American with dreams of becoming a software engineer. Presently, I work as a software engineer intern at North Atlantic Industries in Bohemia, NY. I have previous experience as a mobile frontend developer and have been a coding instructor as well! When I'm not coding, you can find me on the saddle or behind a good book!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- HTML
+- JS
+- CSS
+- React
+- Python
+- Java
+- C
+- C++
+- Dart
+- R
+- Flask
+- Flutter
+- Bootstrap
+- Tailwind
+- Springboot
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roya-parsa-715b42234/)
+
+
+
