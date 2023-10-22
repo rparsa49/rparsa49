@@ -4,9 +4,8 @@ Hi! My name's Roya and I'm currently a third year studying Computer Science. I'm
 
 
 ## 🛠 Skills
-- HTML
 - JS
-- CSS
+- HTML/CSS
 - React
 - Python
 - Java
