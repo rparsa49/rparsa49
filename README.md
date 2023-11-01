@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-Hi! My name's Roya and I'm currently a third year studying Computer Science. I'm an Afghan American with dreams of becoming a software engineer. Presently, I work as a software engineer intern at North Atlantic Industries in Bohemia, NY. I have previous experience as a mobile frontend developer and have been a coding instructor as well! When I'm not coding, you can find me on the saddle or behind a good book!
+Hi! My name's Roya and I'm currently a third year studying Computer Science. I'm an Afghan American with dreams of becoming a software engineer. Presently, I work as a software engineer intern at North Atlantic Industries in Bohemia, NY. I have previous experience as a mobile frontend developer and have been a coding instructor as well! When I'm not coding, you can find me on the saddle or behind a good book! My current interests lie in system programming and operating systems!
 
 
 ## 🛠 Skills
