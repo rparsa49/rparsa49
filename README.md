@@ -2,11 +2,11 @@
 
 Hi there! I'm Roya Parsa, a passionate third-year Computer Science student with big dreams of becoming a skilled software engineer. I proudly identify as Afghan American and I'm currently honing my skills as a Software Engineer Intern at North Atlantic Industries in Bohemia, NY. I also have a background in mobile frontend development and experience as a coding instructor. When I'm not immersed in code, you'll likely find me on horseback or immersed in a captivating book. My current focus is on system programming and operating systems.
 
-🔭 I’m currently working on: Making my way through junior year!
-🌱 I’m currently learning: Database management systems, software engineering, and advanced C!
-💬 Ask me about: Software development, coding techniques, and equestrian sports.
-📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/roya-parsa-715b42234/).
-⚡ Fun fact: I'm a die-hard fan of sci-fi and fantasy novels!
+🔭 I’m currently working on: Making my way through junior year!  
+🌱 I’m currently learning: Database management systems, software engineering, and advanced C!  
+💬 Ask me about: Software development, coding techniques, and equestrian sports.  
+📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/roya-parsa-715b42234/).  
+⚡ Fun fact: I'm a die-hard fan of sci-fi and fantasy novels!  
 
 ## 🛠 Skills
 
