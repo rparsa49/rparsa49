@@ -1,27 +1,27 @@
-
 ## 🚀 About Me
-Hi! My name's Roya and I'm currently a third year studying Computer Science. I'm an Afghan American with dreams of becoming a software engineer. Presently, I work as a software engineer intern at North Atlantic Industries in Bohemia, NY. I have previous experience as a mobile frontend developer and have been a coding instructor as well! When I'm not coding, you can find me on the saddle or behind a good book! My current interests lie in system programming and operating systems!
 
+Hi there! I'm Roya Parsa, a passionate third-year Computer Science student with big dreams of becoming a skilled software engineer. I proudly identify as Afghan American and I'm currently honing my skills as a Software Engineer Intern at North Atlantic Industries in Bohemia, NY. I also have a background in mobile frontend development and experience as a coding instructor. When I'm not immersed in code, you'll likely find me on horseback or immersed in a captivating book. My current focus is on system programming and operating systems.
+
+🔭 I’m currently working on: Making my way through junior year!
+🌱 I’m currently learning: Database management systems, software engineering, and advanced C!
+💬 Ask me about: Software development, coding techniques, and equestrian sports.
+📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/roya-parsa-715b42234/).
+⚡ Fun fact: I'm a die-hard fan of sci-fi and fantasy novels!
 
 ## 🛠 Skills
-- JS
-- HTML/CSS
-- React
-- Python
-- Java
-- C
-- C++
-- Dart
-- R
-- Flask
-- Flutter
-- Bootstrap
-- Tailwind
-- Springboot
+
+- **Languages:** JavaScript, HTML/CSS, Python, Java, C, C++, Dart, R
+- **Frameworks:** React, Flask, Flutter, Spring Boot
+- **Libraries:** Bootstrap, Tailwind CSS
+- **Operating Systems:** Windows, Linux, VxWorks
+- **Version Control:** Git, GitHub
+
+## 📈 GitHub Stats
+
+![Roya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rparsa49&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rparsa49&layout=compact&theme=dark)
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://royaparsa.dev)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roya-parsa-715b42234/)
 
-
-
+- [Portfolio](https://royaparsa.dev)
+- [LinkedIn](https://www.linkedin.com/in/roya-parsa-715b42234/)
