@@ -10,7 +10,7 @@ Hi there! I'm Roya Parsa, a passionate third-year Computer Science student and M
 
 ## 🛠 Skills
 
-- **Languages:** JavaScript, HTML/CSS, Python, Java, C, C++, Dart, R
+- **Languages:** JavaScript, HTML/CSS, Python, Java, C, C++, Dart, R, MySQL
 - **Frameworks:** React, Flask, Flutter, Spring Boot
 - **Libraries:** Bootstrap, Tailwind CSS
 - **Operating Systems:** Windows, Linux, VxWorks
