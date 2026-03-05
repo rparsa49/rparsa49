@@ -1,5 +1,5 @@
 ## hi, i'm roya 👩‍💻
-currently doing my ms cs @ dartmouth college. working on research to benchmark and identify optimal dual-energy ct models to make proton therapy better for kids (@ new york proton center) + rl for ultrasound (@ hassanpour lab)
+currently doing my ms cs @ dartmouth college.
 
 ## what i like 🍵
 ml, medtech, science, ethics, matcha
