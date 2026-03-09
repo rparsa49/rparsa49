@@ -1,5 +1,5 @@
 ## hi, i'm roya 👩‍💻
-currently doing my ms cs @ dartmouth college.
+currently doing my ms cs @ dartmouth college & doing cool things @ the hassanpour lab.
 
 ## what i like 🍵
 ml, medtech, science, ethics, matcha
