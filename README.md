@@ -5,7 +5,7 @@ ms cs @ dartmouth college (grad june 2027) & graduate researcher + ta @ the hass
 - foundation models for computational pathology (fine-tuning prov-gigapath on whole-slide images)
 - fairness auditing in medical imaging, mostly skin tone shortcuts + performance gaps
 - robustness of medical vlms like medgemma under realistic image degradation
-- building llm agents on the side ([simplecoder](https://github.com/rparsa49/simplecoder))
+- building llm agents on the side ([bitty](https://github.com/rparsa49/bitty))
 
 ## what i like 🍵
 ml, medtech, robustness, fairness
